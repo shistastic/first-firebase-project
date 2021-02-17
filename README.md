@@ -2,6 +2,13 @@
 
 A new Flutter application.
 
+# first-firebase-project
+First attempt to implement firebase in a simple Flutter shopping list application.
+
+This app allows the user to register and log in using a basic email and password form, the form is validated using firebase, Once correctly validated the user may create they're personal shopping list stored as collections in the Firestore, the user's may filter the different users that can read or/and edit they're shopping list (Unfinished).
+
+Current Time: 4.5h.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
